@@ -2,8 +2,6 @@
 
 My name is Eric Karpovits and I'm a student at Lisgar Collegiate Insitute. I live in Ottawa Canada 🇨🇦  &nbsp;and aspire to become a software engineer. Passionate about AI and competitve programming. Find me on [![LinkedIn](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)](https://ca.linkedin.com/in/eric-karpovits-475375206) and feel free to check out my fun projects :smile: . 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
-
 ### :wrench: Technologies & Tools
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
@@ -18,6 +16,24 @@ My name is Eric Karpovits and I'm a student at Lisgar Collegiate Insitute. I liv
 ![](https://img.shields.io/badge/Tools-Allegro-informational?style=flat&logo=1&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=2bbc8a)
 
+### 📈 GitHub Stats
+
+<a href="https://github.com/EricKarpovits/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricKarpovits&html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/EricKarpovits/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EricKarpovits&hide=issues&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/EricKarpovits/Graphical-Sorting-Tool">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EricKarpovits&repo=Graphical-Sorting-Tool&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/EricKarpovits/Big-Data-Challenge-2020-2021">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EricKarpovits&repo=Big-Data-Challenge-2020-2021&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>  
 
 <!--
 **EricKarpovits/EricKarpovits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
