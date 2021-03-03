@@ -5,8 +5,9 @@
 My name is Eric Karpovits and I'm a student at Lisgar Collegiate Insitute. I live in Ottawa Canada 🇨🇦  &nbsp;and aspire to become a software engineer. Passionate about AI and competitve programming. Find me on [![LinkedIn](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)](https://www.linkedin.com/in/eric-karpovits) and feel free to check out my fun projects :smile: . 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320">   
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="eric-karpovits-475375206"><a class="LI-simple-link" href='https://ca.linkedin.com/in/eric-karpovits-475375206?trk=profile-badge'>Eric Karpovits</a></div>
+
+<!--<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="eric-karpovits-475375206"><a class="LI-simple-link" href='https://ca.linkedin.com/in/eric-karpovits-475375206?trk=profile-badge'>Eric Karpovits</a></div>-->
 
 ### :wrench: Technologies & Tools
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
