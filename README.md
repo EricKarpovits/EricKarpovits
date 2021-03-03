@@ -2,7 +2,7 @@
 
 My name is Eric Karpovits and I'm a student at Lisgar Collegiate Insitute. I live in Ottawa Canada 🇨🇦  &nbsp;and aspire to become a software engineer. Passionate about AI and competitve programming. Find me on [![LinkedIn](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)](https://ca.linkedin.com/in/eric-karpovits-475375206) and feel free to check out my fun projects :smile: . 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" \>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320">   
 
 ### :wrench: Technologies & Tools
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
