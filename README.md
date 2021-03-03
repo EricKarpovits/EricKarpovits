@@ -2,6 +2,7 @@
 
 My name is Eric Karpovits and I'm a student at Lisgar Collegiate Insitute. I live in Ottawa Canada 🇨🇦  &nbsp;and aspire to become a software engineer. Passionate about AI and competitve programming. Find me on [![LinkedIn](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)](https://ca.linkedin.com/in/eric-karpovits-475375206) and feel free to check out my fun projects :smile: . 
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 ### :wrench: Technologies & Tools
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
@@ -34,13 +35,13 @@ My name is Eric Karpovits and I'm a student at Lisgar Collegiate Insitute. I liv
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EricKarpovits&repo=Graphical-Sorting-Tool&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-
+<!--
 <a href="https://github.com/EricKarpovits/Dodge-The-Falling-Rocks">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EricKarpovits&repo=Dodge-The-Falling-Rocks&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
 
-<!--
-**EricKarpovits/EricKarpovits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!--**EricKarpovits/EricKarpovits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
