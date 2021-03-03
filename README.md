@@ -35,7 +35,7 @@ My name is Eric Karpovits and I'm a student at Lisgar Collegiate Insitute. I liv
 </a>
 
 <a href="https://github.com/EricKarpovits/Graphical-Sorting-Tool">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EricKarpovits&repo=Graphical-Sorting-Tool&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EricKarpovits&repo=Sorting-Visualizer-Tool&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <!--
