@@ -1,7 +1,9 @@
 // index.js
+require('dotenv').config();
 const Mustache = require('mustache');
+const fetch = require('node-fetch');
 const fs = require('fs');
-const MUSTACHE_MAIN_DIR = './main.mustache'
+/**const puppeteerService = require('./services/puppeteer.service');
 /**
   * DATA is the object that contains all
   * the data to be provided to Mustache
@@ -22,7 +24,7 @@ let DATA = {
 
 async function setWeatherInformation() {
     await fetch(
-      `http://api.openweathermap.org/data/2.5/weather?id=6094817&appid=717c2039b39065dd8b789cd934b0cd99&units=metric`
+      `http://api.openweathermap.org/data/2.5/weather?id=6094817&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
     )
       .then(r => r.json())
       .then(r => {
