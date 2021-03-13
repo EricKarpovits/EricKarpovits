@@ -1,0 +1,25 @@
+{
+  "name": "erickarpovits",
+  "version": "1.0.0",
+  "description": "Self-Updating Weather",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricKarpovits/EricKarpovits.git"
+  },
+  "keywords": [
+    "Self-Updating"
+  ],
+  "author": "Eric Karpovits",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EricKarpovits/EricKarpovits/issues"
+  },
+  "homepage": "https://github.com/EricKarpovits/EricKarpovits#readme",
+  "dependencies": {
+    "mustache": "^4.1.0"
+  }
+}
