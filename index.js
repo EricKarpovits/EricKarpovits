@@ -23,22 +23,22 @@ let DATA = {
 
 async function setWeatherInformation() {
     await fetch(
-      `https://api.openweathermap.org/data/2.5/weather?q=stockholm&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
+      `http://api.openweathermap.org/data/2.5/weather?id=6094817&appid=717c2039b39065dd8b789cd934b0cd99&units=metric`
     )
       .then(r => r.json())
       .then(r => {
         DATA.city_temperature = Math.round(r.main.temp);
         DATA.city_weather = r.weather[0].description;
         DATA.city_weather_icon = r.weather[0].icon;
-        DATA.sun_rise = new Date(r.sys.sunrise * 1000).toLocaleString('en-GB', {
+        DATA.sun_rise = new Date(r.sys.sunrise * 1000).toLocaleString('en-US', {
           hour: '2-digit',
           minute: '2-digit',
-          timeZone: 'Europe/Stockholm',
+          timeZone: 'America/Toronto',
         });
-        DATA.sun_set = new Date(r.sys.sunset * 1000).toLocaleString('en-GB', {
+        DATA.sun_set = new Date(r.sys.sunset * 1000).toLocaleString('en-US', {
           hour: '2-digit',
           minute: '2-digit',
-          timeZone: 'Europe/Stockholm',
+          timeZone: 'America/Toronto',
         });
       });
 }
