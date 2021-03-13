@@ -30,15 +30,15 @@ async function setWeatherInformation() {
         DATA.city_temperature = Math.round(r.main.temp);
         DATA.city_weather = r.weather[0].description;
         DATA.city_weather_icon = r.weather[0].icon;
-        DATA.sun_rise = new Date(r.sys.sunrise * 1000).toLocaleString('en-US', {
+        DATA.sun_rise = new Date(r.sys.sunrise * 1000).toLocaleString('en-GB', {
           hour: '2-digit',
           minute: '2-digit',
-          timeZone: 'America/Toronto',
+          timeZone: 'Europe/Stockholm',
         });
-        DATA.sun_set = new Date(r.sys.sunset * 1000).toLocaleString('en-US', {
+        DATA.sun_set = new Date(r.sys.sunset * 1000).toLocaleString('en-GB', {
           hour: '2-digit',
           minute: '2-digit',
-          timeZone: 'America/Toronto',
+          timeZone: 'Europe/Stockholm',
         });
       });
 }
