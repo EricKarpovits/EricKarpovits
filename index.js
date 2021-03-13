@@ -3,6 +3,9 @@ require('dotenv').config();
 const Mustache = require('mustache');
 const fetch = require('node-fetch');
 const fs = require('fs');
+
+const MUSTACHE_MAIN_DIR = './main.mustache';
+
 /**const puppeteerService = require('./services/puppeteer.service');
 /**
   * DATA is the object that contains all
@@ -28,7 +31,7 @@ async function setWeatherInformation() {
     )
       .then(r => r.json())
       .then(r => {
-        DATA.city_temperature = Math.round(r.main.temp);
+        DATA.city_temperature = r.main.temp;
         DATA.city_weather = r.weather[0].description;
         DATA.city_weather_icon = r.weather[0].icon;
         DATA.sun_rise = new Date(r.sys.sunrise * 1000).toLocaleString('en-US', {
@@ -60,6 +63,7 @@ function generateReadMe() {
 async function action() {
     /**
      * Fetch Weather
+    
      */
     await setWeatherInformation();
   
