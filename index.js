@@ -24,7 +24,7 @@ let DATA = {
     timeZone: 'America/Toronto', 
   }),
 };
-
+/*
 async function setWeatherInformation() {
     await fetch(
       `http://api.openweathermap.org/data/2.5/weather?id=6094817&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
@@ -63,9 +63,9 @@ function generateReadMe() {
 async function action() {
     /**
      * Fetch Weather
-    
+      await setWeatherInformation();
+  
      */
-    await setWeatherInformation();
   
     /**
      * Get pictures
