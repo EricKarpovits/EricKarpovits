@@ -7,14 +7,14 @@ const puppeteerService = require('./services/puppeteer.service');
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
 let DATA = {
-  refresh_date: new Date().toLocaleDateString('en-GB', {
+  refresh_date: new Date().toLocaleDateString('en-US', {
     weekday: 'long',
     month: 'long',
     day: 'numeric',
     hour: 'numeric',
     minute: 'numeric',
     timeZoneName: 'short',
-    timeZone: 'Europe/Stockholm',
+    timeZone: 'America/Toronto',
   }),
 };
 
