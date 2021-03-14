@@ -22,9 +22,7 @@
   "dependencies": {
     "dotenv": "^8.2.0",
     "mustache": "^4.1.0",
-    "node-fetch": "^2.6.1"
-  },
-  "devDependencies": {
+    "node-fetch": "^2.6.1",
     "puppeteer": "^8.0.0"
   }
 }
