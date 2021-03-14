@@ -6,7 +6,7 @@ const fs = require('fs');
 
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
-/**const puppeteerService = require('./services/puppeteer.service');
+const puppeteerService = require('./services/puppeteer.service');
 /**
   * DATA is the object that contains all
   * the data to be provided to Mustache
