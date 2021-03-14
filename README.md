@@ -59,11 +59,5 @@ Feel free to check out my projects. <img src='./Images/smile.svg' width="21"/>
 <p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
-<h3>Where to find me</h3>
-
 ------------
-<<<<<<< HEAD
-<p align="center">This <i>README</i> file is generated <b>every hour!<b/> Last refresh: Sunday, 14 March, 19:40 CET</p>
-=======
-<p align="center">This <i>README</i> file is generated <b>every hour!<b/> Last refresh: Sunday, March 14, 1:55 PM EDT</p>
->>>>>>> 8a292843ae879c4f8d564b5df49e472db55a8234
+<p align="center">This <i>README</i> file is generated <b>every hour!<b/> Last refresh: Monday, 15 March, 00:30 CET</p>
