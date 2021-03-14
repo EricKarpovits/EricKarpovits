@@ -1,0 +1,6 @@
+*.psd filter=lfs diff=lfs merge=lfs -text
+*.local-chromium filter=lfs diff=lfs merge=lfs -text
+node_modules/puppeteer/.local-chromium/mac-856583/chrome-mac/Chromium.app/Contents/Frameworks/Chromium filter=lfs diff=lfs merge=lfs -text
+Framework.framework/Versions/90.0.4427.0/Chromium filter=lfs diff=lfs merge=lfs -text
+Framework filter=lfs diff=lfs merge=lfs -text
+*.framework filter=lfs diff=lfs merge=lfs -text
