@@ -24,7 +24,7 @@ async function setWeatherInformation() {
   )
     .then(r => r.json())
     .then(r => {
-     var weatherData = JSON.parse(data.content);
+     var weatherData = JSON.parse(r[0].content[0]);
       var myTemp = weatherData.main.temp;
       DATA.city_temperature = myTemp;
       DATA.city_weather = weatherData.weather.description;
@@ -59,8 +59,9 @@ async function generateReadMe() {
 
 async function action() {
   /**
-   * Fetch Weather  await setWeatherInformation();
+   * Fetch Weather    await setWeatherInformation();
    */
+
 
 
   /**
