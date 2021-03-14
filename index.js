@@ -24,14 +24,14 @@ let DATA = {
     timeZone: 'America/Toronto', 
   }),
 };
-/*
+
 async function setWeatherInformation() {
     await fetch(
       `http://api.openweathermap.org/data/2.5/weather?id=6094817&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
     )
       .then(r => r.json())
       .then(r => {
-        DATA.city_temperature = r.main.temp;
+        DATA.city_temperature = Math.round(r.main.temp);
         DATA.city_weather = r.weather[0].description;
         DATA.city_weather_icon = r.weather[0].icon;
         DATA.sun_rise = new Date(r.sys.sunrise * 1000).toLocaleString('en-US', {
@@ -45,6 +45,13 @@ async function setWeatherInformation() {
           timeZone: 'America/Toronto',
         });
       });
+}
+
+async function setInstagramPosts() {
+  const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount('visitstockholm', 3);
+  DATA.img1 = instagramImages[0];
+  DATA.img2 = instagramImages[1];
+  DATA.img3 = instagramImages[2];
 }
 
 /**
@@ -61,28 +68,25 @@ function generateReadMe() {
 }
 
 async function action() {
-    /**
-     * Fetch Weather
-      await setWeatherInformation();
-  
-     */
-  
-    /**
-     * Get pictures
-     * await setInstagramPosts();
-     */
-    
-  
-    /**
-     * Generate README
-     */
-    await generateReadMe();
-  
-    /**
-     * Fermeture de la boutique 👋
-     * await puppeteerService.close();
-     */
-    
-  }
-  
+  /**
+   * Fetch Weather
+   */
+  await setWeatherInformation();
+
+  /**
+   * Get pictures
+   */
+  await setInstagramPosts();
+
+  /**
+   * Generate README
+   */
+  await generateReadMe();
+
+  /**
+   * Fermeture de la boutique 👋
+   */
+  await puppeteerService.close();
+}
+
 action();
