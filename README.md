@@ -1,8 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there! Nice to see you.</h1>
 
 <p>Welcome to my page! </br></br> I'm  and am <img src='./Images/canada.svg' width="13"/> <b>Canadian High School</b>, 
-student who is Passionate about AI and competitve programming. I enjoy contributing to the Computer and Data Science community, 
-and enjoys building impactful side projects. Feel free to check out my projects. <img src='./Images/smile.svg' width="21"/> 
+student who is Passionate about AI and competitve programming. I enjoy contributing to the Computer and Data Science community, building impactful side projects. 
+Feel free to check out my projects. <img src='./Images/smile.svg' width="21"/> 
 
 <h3>Things I code with</h3>
 
@@ -52,24 +52,14 @@ and enjoys building impactful side projects. Feel free to check out my projects.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EricKarpovits&repo=Sorting-Visualizer-Tool&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/EricKarpovits/Dodge-The-Falling-Rocks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EricKarpovits&repo=Dodge-The-Falling-Rocks&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
-
 <h3> <img src='./Images/canada.svg' width="13"/> Ottawa, Canada</h3>
 <p><img width="200" src="https:&#x2F;&#x2F;instagram.fiev22-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.113.1080.1080a&#x2F;s640x640&#x2F;159611943_295101302046877_8808863411716271494_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.fiev22-2.fna.fbcdn.net&amp;_nc_cat&#x3D;101&amp;_nc_ohc&#x3D;mnyJeUFzf9IAX90fTmc&amp;oh&#x3D;8a9b0a68c8dc87babfca411079cd643d&amp;oe&#x3D;6077232A" /> <img width="200" src="https:&#x2F;&#x2F;instagram.fiev22-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.129.1080.1080a&#x2F;s640x640&#x2F;159538070_186400513287721_4449951535434726863_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.fiev22-2.fna.fbcdn.net&amp;_nc_cat&#x3D;101&amp;_nc_ohc&#x3D;ThJryvnzOEAAX_9xbER&amp;oh&#x3D;60cc7734f23e6845df96ed65e4492de2&amp;oe&#x3D;60780048" /> <img width="200" src="https:&#x2F;&#x2F;instagram.fiev22-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.90.720.720a&#x2F;s640x640&#x2F;159674520_119242500170921_3555913158224293094_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.fiev22-1.fna.fbcdn.net&amp;_nc_cat&#x3D;105&amp;_nc_ohc&#x3D;sKdhwmusGs0AX-0CkJL&amp;oh&#x3D;99c17a6d2558352aef7c718f113b9cdb&amp;oe&#x3D;60503887" /></p>
-<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/visitstockholm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @ottawatourism!</a><br/></p>
+<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/ottawatourism/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @ottawatourism!</a><br/></p>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
 <h3>Where to find me</h3>
-<p><a href="https://github.com/EricKarpovits" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/eric-karpovits/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@erickarpovits" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p> 
 
 ------------
-<<<<<<< Updated upstream
-<p align="center">This <i>README</i> file is generated <b>every hour!<b/> Last refresh: Sunday, March 14, 4:40 AM EDT</p>
-=======
-<p align="center">This <i>README</i> file is generated <b>every hour!<b/> Last refresh: Sunday, March 14, 12:35 PM EDT</p>
->>>>>>> Stashed changes
+<p align="center">This <i>README</i> file is generated <b>every hour!<b/> Last refresh: Sunday, March 14, 12:38 PM EDT</p>
