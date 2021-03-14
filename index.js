@@ -7,14 +7,14 @@ const puppeteerService = require('./services/puppeteer.service');
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
 let DATA = {
-  refresh_date: new Date().toLocaleDateString('en-US', {
+  refresh_date: new Date().toLocaleDateString('en-GB', {
     weekday: 'long',
     month: 'long',
     day: 'numeric',
     hour: 'numeric',
     minute: 'numeric',
     timeZoneName: 'short',
-    timeZone: 'America/Toronto',
+    timeZone: 'Europe/Stockholm',
   }),
 };
 /*
@@ -24,17 +24,15 @@ async function setWeatherInformation() {
   )
     .then(r => r.json())
     .then(r => {
-     var weatherData = JSON.parse(r[0].content[0]);
-      var myTemp = weatherData.main.temp;
-      DATA.city_temperature = myTemp;
-      DATA.city_weather = weatherData.weather.description;
-      DATA.city_weather_icon = weatherData.weather.icon;
-      DATA.sun_rise = new Date(weatherData.sys.sunrise * 1000).toLocaleString('en-GB', {
+      DATA.city_temperature = Math.round(r.main.temp);
+      DATA.city_weather = r.weather[0].description;
+      DATA.city_weather_icon = r.weather[0].icon;
+      DATA.sun_rise = new Date(r.sys.sunrise * 1000).toLocaleString('en-GB', {
         hour: '2-digit',
         minute: '2-digit',
         timeZone: 'Europe/Stockholm',
       });
-      DATA.sun_set = new Date(weatherData.sys.sunset * 1000).toLocaleString('en-GB', {
+      DATA.sun_set = new Date(r.sys.sunset * 1000).toLocaleString('en-GB', {
         hour: '2-digit',
         minute: '2-digit',
         timeZone: 'Europe/Stockholm',
@@ -43,7 +41,7 @@ async function setWeatherInformation() {
 }
 */
 async function setInstagramPosts() {
-  const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount('ottawatourism', 3);
+  const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount('visitstockholm', 3);
   DATA.img1 = instagramImages[0];
   DATA.img2 = instagramImages[1];
   DATA.img3 = instagramImages[2];
@@ -59,14 +57,13 @@ async function generateReadMe() {
 
 async function action() {
   /**
-   * Fetch Weather    await setWeatherInformation();
+   * Fetch Weather await setWeatherInformation();
    */
-
-
+  
 
   /**
-  * Get pictures
-  */
+   * Get pictures
+   */
   await setInstagramPosts();
 
   /**
