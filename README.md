@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Eric Karpovits and am <img src='./Images/canada.svg' width="13"/> <b>Canadian High School</b>, 
+<p>Welcome to my page! </br></br> I'm Eric Karpovits and am <img src='./Images/canada.svg' width="13"/> <b>Canadian High School</b>, 
 student who is Passionate about AI and competitve programming. I enjoy contributing to the Computer and Data Science community, 
 and enjoys building impactful side projects. Feel free to check out my projects. <img src='./Images/smile.svg' width="13"/> 
 
@@ -39,8 +39,8 @@ and enjoys building impactful side projects. Feel free to check out my projects.
 <h3> <img src='./Images/canada.svg' width="13"/> Ottawa, Canada</h3>
 
 <h3>Where to find me</h3>
-<p><a href="https://github.com/EricKarpovits" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> < <a href="https://www.linkedin.com/in/eric-karpovits/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@erickarpovits" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<p><a href="https://github.com/EricKarpovits" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/eric-karpovits/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@erickarpovits" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p> 
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every hour !<b/> Last refresh: Saturday, March 13, 1:40 AM EST</p>
+<p align="center">This <i>README</i> file is generated <b>every hour!<b/> Last refresh: Saturday, March 13, 11:03 PM EST</p>
