@@ -36,6 +36,26 @@ and enjoys building impactful side projects. Feel free to check out my projects.
 
 <h3>🎁 Projects & 📈 GitHub Stats</h3>
 
+<a href="https://github.com/EricKarpovits/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricKarpovits&html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/EricKarpovits/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EricKarpovits&hide=issues&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/EricKarpovits/Big-Data-Challenge-2020-2021">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EricKarpovits&repo=Big-Data-Challenge-2020-2021&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/EricKarpovits/Graphical-Sorting-Tool">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EricKarpovits&repo=Sorting-Visualizer-Tool&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/EricKarpovits/Dodge-The-Falling-Rocks">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EricKarpovits&repo=Dodge-The-Falling-Rocks&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+
 <h3> <img src='./Images/canada.svg' width="13"/> Ottawa, Canada</h3>
 
 <h3>Where to find me</h3>
@@ -43,4 +63,4 @@ and enjoys building impactful side projects. Feel free to check out my projects.
 </p> 
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every hour!<b/> Last refresh: Saturday, March 13, 11:35 PM EST</p>
+<p align="center">This <i>README</i> file is generated <b>every hour!<b/> Last refresh: Saturday, March 13, 11:36 PM EST</p>
