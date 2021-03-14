@@ -17,7 +17,7 @@ let DATA = {
     timeZone: 'Europe/Stockholm',
   }),
 };
-/*
+
 async function setWeatherInformation() {
   await fetch(
     `https://api.openweathermap.org/data/2.5/weather?q=stockholm&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
@@ -39,7 +39,7 @@ async function setWeatherInformation() {
       });
     });
 }
-*/
+
 async function setInstagramPosts() {
   const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount('visitstockholm', 3);
   DATA.img1 = instagramImages[0];
@@ -57,9 +57,9 @@ async function generateReadMe() {
 
 async function action() {
   /**
-   * Fetch Weather await setWeatherInformation();
+   * Fetch Weather await 
    */
-  
+  await setWeatherInformation();
 
   /**
    * Get pictures
