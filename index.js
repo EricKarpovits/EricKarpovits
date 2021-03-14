@@ -29,12 +29,12 @@ async function setWeatherInformation() {
       DATA.city_temperature = myTemp;
       DATA.city_weather = weatherData.weather.description;
       DATA.city_weather_icon = weatherData.weather.icon;
-      DATA.sun_rise = new Date(r.sys.sunrise * 1000).toLocaleString('en-GB', {
+      DATA.sun_rise = new Date(weatherData.sys.sunrise * 1000).toLocaleString('en-GB', {
         hour: '2-digit',
         minute: '2-digit',
         timeZone: 'Europe/Stockholm',
       });
-      DATA.sun_set = new Date(r.sys.sunset * 1000).toLocaleString('en-GB', {
+      DATA.sun_set = new Date(weatherData.sys.sunset * 1000).toLocaleString('en-GB', {
         hour: '2-digit',
         minute: '2-digit',
         timeZone: 'Europe/Stockholm',
