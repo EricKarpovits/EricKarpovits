@@ -2,7 +2,7 @@
 
 <p>Welcome to my page! </br></br> I'm Eric Karpovits and am <img src='./Images/canada.svg' width="13"/> <b>Canadian High School</b>, 
 student who is Passionate about AI and competitve programming. I enjoy contributing to the Computer and Data Science community, 
-and enjoys building impactful side projects. Feel free to check out my projects. <img src='./Images/smile.svg' width="17"/> 
+and enjoys building impactful side projects. Feel free to check out my projects. <img src='./Images/smile.svg' width="21"/> 
 
 <h3>Things I code with</h3>
 
@@ -63,4 +63,4 @@ and enjoys building impactful side projects. Feel free to check out my projects.
 </p> 
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every hour!<b/> Last refresh: Sunday, March 14, 12:17 AM EST</p>
+<p align="center">This <i>README</i> file is generated <b>every hour!<b/> Last refresh: Sunday, March 14, 1:14 AM EST</p>
