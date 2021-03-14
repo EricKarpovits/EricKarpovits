@@ -24,7 +24,7 @@ async function setWeatherInformation() {
   )
     .then(r => r.json())
     .then(r => {
-      var myTemp = r.main?.temp;
+      var myTemp = r?.main.temp;
       DATA.city_temperature = myTemp;
       DATA.city_weather = r.weather?.description;
       DATA.city_weather_icon = r.weather?.icon;
