@@ -7,17 +7,17 @@ const puppeteerService = require('./services/puppeteer.service');
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
 let DATA = {
-  refresh_date: new Date().toLocaleDateString('en-GB', {
+  refresh_date: new Date().toLocaleDateString('en-US', {
     weekday: 'long',
     month: 'long',
     day: 'numeric',
     hour: 'numeric',
     minute: 'numeric',
     timeZoneName: 'short',
-    timeZone: 'Europe/Stockholm',
+    timeZone: 'America/Toronto',
   }),
 };
-
+/*
 async function setWeatherInformation() {
   await fetch(
     `https://api.openweathermap.org/data/2.5/weather?q=stockholm&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
@@ -41,9 +41,9 @@ async function setWeatherInformation() {
       });
     });
 }
-
+*/
 async function setInstagramPosts() {
-  const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount('visitstockholm', 3);
+  const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount('ottawatourism', 3);
   DATA.img1 = instagramImages[0];
   DATA.img2 = instagramImages[1];
   DATA.img3 = instagramImages[2];
@@ -59,9 +59,9 @@ async function generateReadMe() {
 
 async function action() {
   /**
-   * Fetch Weather
+   * Fetch Weather  await setWeatherInformation();
    */
-  await setWeatherInformation();
+
 
   /**
   * Get pictures
