@@ -29,6 +29,8 @@ jobs:
         run: node index.js
       - name: Commit files
         run: |
+             git config --global user.email "erickarpovits@example.com"
+             git config --global user.name "Eric Karpovits"
              git commit -m "Add changes" -a
       - name: Push changes
         uses: ad-m/github-push-action@master
