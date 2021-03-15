@@ -60,4 +60,5 @@ Feel free to check out my projects. <img src='./Images/smile.svg' width="21"/>
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every hour!<b/> Last refresh: Sunday, March 14, 7:53 PM EDT</p>
+<p align="center">This <i>README</i> file is generated <b>every hour!<b/> Last refresh: Sunday, March 14, 8:01 PM EDT</p>
+<p align="center"> <image alt="Visitors" scr="https://visitor-badge.glitch.me/badge?page_id=erickarpovits" /> </p>
