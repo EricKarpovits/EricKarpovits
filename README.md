@@ -4,7 +4,7 @@
 student who is Passionate about AI and competitve programming. I enjoy contributing to the Computer and Data Science community, building impactful side projects. 
 Feel free to check out my projects. <img src='./Images/smile.svg' width="21"/> </p>
 
-<h3>Things I code with</h3>
+<h3>Things I code with</h3>. 
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
