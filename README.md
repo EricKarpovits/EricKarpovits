@@ -50,12 +50,12 @@ Feel free to check out my projects. <img src='./Images/smile.svg' width="21"/> <
 </a>
 
 <h3> <img src='./Images/canada.svg' width="13"/> Ottawa, Canada</h3>
-<p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
+<p><img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;e35&#x2F;c144.0.431.431a&#x2F;162455813_3777820145665553_1130987436373204218_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.flwo4-1.fna.fbcdn.net&amp;_nc_cat&#x3D;105&amp;_nc_ohc&#x3D;YgG6n61OjSwAX9bTtxC&amp;ccb&#x3D;7-4&amp;oh&#x3D;54e04962769ac40ab1f67f23a90ba7ca&amp;oe&#x3D;608156F0&amp;_nc_sid&#x3D;7bff83" /> <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c144.0.792.792a&#x2F;s640x640&#x2F;162728990_243828624105043_806651466950854067_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.flwo4-1.fna.fbcdn.net&amp;_nc_cat&#x3D;107&amp;_nc_ohc&#x3D;qd2py5O-sUwAX-Z5Prb&amp;ccb&#x3D;7-4&amp;oh&#x3D;4e3650ae1c9e246ed8cc93b2eb8a5c35&amp;oe&#x3D;608206FE&amp;_nc_sid&#x3D;7bff83" /> <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.129.1080.1080a&#x2F;s640x640&#x2F;161812838_1133778270395388_3847851790860721683_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.flwo4-2.fna.fbcdn.net&amp;_nc_cat&#x3D;100&amp;_nc_ohc&#x3D;aa22I6-fid4AX958n64&amp;ccb&#x3D;7-4&amp;oh&#x3D;b353303c10b7aea0a8f0f8a1a95883a3&amp;oe&#x3D;60835A79&amp;_nc_sid&#x3D;7bff83" /></p>
 <p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/ottawatourism/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @ottawatourism!</a><br/></p>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/erickarpovits" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/eric-karpovits/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@erickarpovits" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 30 mins!<b/> Last refresh: Tuesday, March 23, 4:14 AM EDT</p>
+<p align="center">This <i>README</i> file is generated <b>every 30 mins!<b/> Last refresh: Tuesday, March 23, 4:40 AM EDT</p>
 <p align="center"> <img alt="Build" src="https://img.shields.io/github/workflow/status/erickarpovits/erickarpovits/README%20build" /> <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=erickarpovits" /> </p>
