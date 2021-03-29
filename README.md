@@ -5,7 +5,7 @@ student who is Passionate about AI and competitve programming. I enjoy contribut
 Feel free to check out my projects. <img src='./Images/smile.svg' width="21"/> </p>
 
 <h3>Things I code with</h3>
-  
+    
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
