@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there! Nice to see you.</h1>
 
-<p>Welcome to my page! </br></br> I'm  and am <img src='./Images/canada.svg' width="13"/> <b>Canadian University Student</b>, 
-student who goes to UofT Trinity College and is Passionate about AI and competitve programming. I enjoy contributing to the Computer and Data Science community, building impactful side projects. 
+<p>Welcome to my page! </br></br> I'm  and am <img src='./Images/canada.svg' width="13"/> <b>Canadian High School</b>, 
+student who is Passionate about AI and competitve programming. I enjoy contributing to the Computer and Data Science community, building impactful side projects. 
 Feel free to check out my projects. <img src='./Images/smile.svg' width="21"/> </p>
 
 <h3>Things I code with</h3>
@@ -57,6 +57,6 @@ Feel free to check out my projects. <img src='./Images/smile.svg' width="21"/> <
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 30 mins!<b/> Last refresh: Wednesday, December 15, 8:33 PM EST</p>
+<p align="center">This <i>README</i> file is generated <b>every 30 mins!<b/> Last refresh: Wednesday, December 15, 9:10 PM EST</p>
 <p align="center">Special Thanks to Thomas Guibert for the tutorial. <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"> <img alt="Build" src="https://img.shields.io/github/workflow/status/erickarpovits/erickarpovits/README%20build" /> <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=erickarpovits" /> </p>
