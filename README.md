@@ -48,7 +48,7 @@ Feel free to check out my projects. <img src='./Images/smile.svg' width="21"/> <
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EricKarpovits&repo=Sorting-Visualizer-Tool&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<h3> <img src='./Images/canada.svg' width="13"/> Ottawa, Canada</h3>
+<h3> <img src='./Images/canada.svg' width="13"/> Toronto, Canada</h3>
 <p><img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cc0.135.1080.1080a%7C%7Cs640x640%7C%7C272688132_226811586310007_5882027048265034192_n.jpg%3F_nc_ht%3Dinstagram.fiev22-2.fna.fbcdn.net%26_nc_cat%3D111%26_nc_ohc%3DWkBk4iE1RGIAX-x_YDs%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D00_AT9jinegEMgWKRW0ct_V0fGptCrKD6h8V960dqPcsaxmXw%26oe%3D61F6F2E7%26_nc_sid%3D7bff83" /> <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cc0.280.720.720a%7C%7Cs640x640%7C%7C272297197_1005406396726788_8395641003651238462_n.jpg%3F_nc_ht%3Dinstagram.fiev22-1.fna.fbcdn.net%26_nc_cat%3D100%26_nc_ohc%3DhiI1JUH7HpwAX9iL0HO%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D00_AT9gadKn76BjwgIDAiboUrD3Zcnmi1MGSVF48ou486np_g%26oe%3D61F2F2D5%26_nc_sid%3D7bff83" /> <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cc0.504.3024.3024a%7C%7Cs640x640%7C%7C272272645_643194126922230_1570680791703903253_n.jpg%3F_nc_ht%3Dinstagram.fiev22-1.fna.fbcdn.net%26_nc_cat%3D106%26_nc_ohc%3D6tF-PKpF0WMAX_Pi2TF%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D00_AT-_2iHuXzl4NgyIUnKNbgJY1WLKEf1glqczzTAXwzw9-w%26oe%3D61F38638%26_nc_sid%3D7bff83" /></p>
 <p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/destination_toronto/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @Destination_Toronto!</a><br/></p>
 <h3>Where to find me</h3>
@@ -56,6 +56,6 @@ Feel free to check out my projects. <img src='./Images/smile.svg' width="21"/> <
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 30 mins!<b/> Last refresh: Wednesday, January 26, 3:50 AM EST</p>
+<p align="center">This <i>README</i> file is generated <b>every 30 mins!<b/> Last refresh: Wednesday, January 26, 3:55 AM EST</p>
 <p align="center">Special Thanks to Thomas Guibert for the tutorial. <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"> <img alt="Build" src="https://img.shields.io/github/workflow/status/erickarpovits/erickarpovits/README%20build" /> <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=erickarpovits" /> </p>
