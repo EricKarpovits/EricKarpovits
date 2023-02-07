@@ -3,7 +3,6 @@
 <p>Welcome to my page! </br></br> I'm Eric and am <img src='./Images/canada.svg' width="13"/> <b>Canadian University Student @UofT Trinity College</b>, who is passionate about AI and backend. I enjoy contributing to the Computer and Data Science community, building impactful side projects. 
 Feel free to check out my projects. <img src='./Images/smile.svg' width="21"/> </p>
 
-<h3>Things I code with</h3>
 
 
 <h3>🎁 Projects & 📈 GitHub Stats</h3>
@@ -32,6 +31,6 @@ Feel free to check out my projects. <img src='./Images/smile.svg' width="21"/> <
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 30 mins!<b/> Last refresh: Monday, February 6, 7:22 PM EST</p>
+<p align="center">This <i>README</i> file is generated <b>every 30 mins!<b/> Last refresh: Monday, February 6, 7:26 PM EST</p>
 <p align="center">Special Thanks to Thomas Guibert for the tutorial. <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"> <img alt="Build" src="https://img.shields.io/github/workflow/status/erickarpovits/erickarpovits/README%20build" /> <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=erickarpovits" /> </p>
